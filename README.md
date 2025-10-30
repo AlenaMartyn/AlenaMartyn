@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Алёна
 
-<!--
-**AlenaMartyn/AlenaMartyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Обо мне
+- 🎯 Студентка 2 курса РАНХиГС
+- 🌱 Сейчас изучаю: Python
+- 🚀 Стремлюсь к карьере в финансах
+- 💡 Постоянно учусь и совершенствую навыки
+## 🛠️ Технологии и инструменты
+- **Языки программирования:** Python
 
-Here are some ideas to get you started:
+## 📫 Как связаться
+- 📧 Email: alyonamartyn2012@gmail.com
+- 💼 GitHub: [Мой профиль](https://github.com/AlenaMartyn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Спасибо за визит на мой профиль! ✨*
